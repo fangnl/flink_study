@@ -1,0 +1,3 @@
+# Project exclude paths
+/target/
+/test_work/target/
